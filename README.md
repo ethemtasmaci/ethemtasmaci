@@ -1,8 +1,8 @@
-### 👋 Hi there! I'm Ethem
-
-I am a passionate full-stack and mobile developer eager to learn and grow in the tech industry. Fresh out of high school, I am driven by a desire to build projects and continuously expand my knowledge in this field.
+<h1 align="center">Hi 👋, I'm İbrahim Ethem Tasmacı</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethemtasmaci&label=Profile%20views&color=0e75b6&style=flat" alt="ethemtasmaci" /> </p>
+
+I am a passionate full-stack and mobile developer eager to learn and grow in the tech industry. Fresh out of high school, I am driven by a desire to build projects and continuously expand my knowledge in this field.
 
 ### 🚀 Skills & Technologies
 
