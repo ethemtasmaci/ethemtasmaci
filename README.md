@@ -7,9 +7,9 @@ I am a passionate full-stack and mobile developer eager to learn and grow in the
 ### 🚀 Skills & Technologies
 
 - **Front-End**: React, HTML, CSS, JavaScript, jQuery
-- **Back-End**: Node.js, Python, Django, FastAPI, .Net Core, C#
+- **Back-End**: Node.js, Python, Django, FastAPI, .Net Core, C#, GO
 - **Mobile**: React Native
-- **Databases**: Firebase, MSSQL, MySQL
+- **Databases**: Firebase, MSSQL, MySQL, PostgreSQL, MongoDB
 
 ### 🌱 Always Learning
 
@@ -21,5 +21,6 @@ I aim to specialize in full-stack development and mobile app development, using 
 
 ### 📫 Get in Touch
 
+- **Web Site**:  [My LinkedIn Profile](https://ethemtasmaci.com/)
 - **Email**: iethemtasmaci@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/ibrahim-ethem-tasmacı-26bbb2296)
