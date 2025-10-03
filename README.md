@@ -6,10 +6,11 @@ I am a passionate full-stack and mobile developer eager to learn and grow in the
 
 ### 🚀 Skills & Technologies
 
-- **Front-End**: React, HTML, CSS, JavaScript, jQuery
-- **Back-End**: Node.js, Python, Django, FastAPI, .Net Core, C#, GO
+- **Front-End**: React, Next.js, HTML, CSS, JavaScript, jQuery, Three.js, MapLibre GL
+- **Back-End**: GO, Node.js, Express.js, Python, Django, FastAPI, .Net Core, C#
 - **Mobile**: React Native
-- **Databases**: Firebase, MSSQL, MySQL, PostgreSQL, MongoDB
+- **Event**: Kafka, MQTT, Redis, RabbitMQ, WebSoket
+- **Databases**: Firebase, MSSQL, MySQL, PostgreSQL, MongoDB, Clickhouse
 
 ### 🌱 Always Learning
 
