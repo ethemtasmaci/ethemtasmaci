@@ -6,10 +6,10 @@ I am a passionate full-stack and mobile developer eager to learn and grow in the
 
 ### 🚀 Skills & Technologies
 
-- **Front-End**: React, Next.js, HTML, CSS, JavaScript, jQuery, Three.js, MapLibre GL
+- **Front-End**: React JS, Next.js, HTML, CSS, JavaScript, jQuery, Three.js, MapLibre GL JS, Leaflet, Mapbox GL JS
 - **Back-End**: GO, Node.js, Express.js, Python, Django, FastAPI, .Net Core, C#
 - **Mobile**: React Native
-- **Event**: Kafka, MQTT, Redis, RabbitMQ, WebSoket
+- **Event**: Kafka, MQTT, Redis, RabbitMQ, WebSoket, Nginx
 - **Databases**: Firebase, MSSQL, MySQL, PostgreSQL, MongoDB, Clickhouse
 
 ### 🌱 Always Learning
